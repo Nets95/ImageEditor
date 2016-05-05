@@ -1,0 +1,12 @@
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\bin\Debug\bitmap editor.exe.config
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\bin\Debug\bitmap editor.exe
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\bin\Debug\bitmap editor.pdb
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.csprojResolveAssemblyReference.cache
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap_editor.Form1.resources
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap_editor.Properties.Resources.resources
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.csproj.GenerateResource.Cache
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.exe
+D:\ФеІ\6 семестр\Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.pdb
+D:\Семестр 2\Кушнір Проект\bitmap editor\bitmap editor\bin\Debug\bitmap editor.exe.config
+D:\Семестр 2\Кушнір Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.exe
+D:\Семестр 2\Кушнір Проект\bitmap editor\bitmap editor\obj\Debug\bitmap editor.pdb
